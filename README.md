@@ -21,4 +21,4 @@ python app.py
 ```
 
 ## Result of Model Deployment:
-The result shows the mood of the tweets (label of classification), whether it belongs to the concept of hate speech or not.
+The result shows the tweets' mood (label of classification), whether it belongs to the concept of hate speech or not.
