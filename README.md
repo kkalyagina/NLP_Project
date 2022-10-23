@@ -1,5 +1,4 @@
-# NLP_Project 
-# Hate Speech Detection using Transformers (Deep Learning)
+# NLP_Project - Hate Speech Detection using Transformers (Deep Learning)
 
 ## Problem description:
 The task of the project is to classify tweets from Twitter, namely, it is necessary to
