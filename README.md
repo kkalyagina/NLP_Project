@@ -14,3 +14,6 @@ representing the same meaning.
 
 ## Result of Keras Model:
 The result shows the likelihood of users' tweet being related to hate speech.
+
+## Result of Model Deployment:
+The result shows the mood of the tweets (label of classification), whether it belongs to the concept of hate speech or not.
